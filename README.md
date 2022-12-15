@@ -4,7 +4,7 @@ Matlab Iterative Bit-flipping LDPC decoders: Implementation-efficient Reliabilit
 
 Juntan Zhang and M. P. C. Fossorier, "A modified weighted bit-flipping decoding of low-density Parity-check codes," in IEEE Communications Letters, vol. 8, no. 3, pp. 165-167, March 2004, doi: 10.1109/LCOMM.2004.825737.
 
-For contruction QC-LDPC code use algebraic methods: https://github.com/Lcrypto/Algebraic_QC-LDPC 
+For contruction LDPC codes use algebraic methods: https://github.com/Lcrypto/Algebraic_QC-LDPC 
 
 C++ decoders for EG LDPC at folder bf-tests-awgn-egldpc-0.2 from Fernando Pujaico Rivera: 
 * bit-flipping
