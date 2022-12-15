@@ -15,3 +15,4 @@ C++ decoders at folder bf-tests-awgn-egldpc-0.2 from Fernando Pujaico Rivera:
  * Modified weighted bit-flipping
  * Serial Sipser-Spilman bit-flipping
  * Parallel Sipser-Spilman bit-flipping
+BFS SHBF PHBF SSSBF PSSBF WBF MWBF
