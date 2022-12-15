@@ -10,7 +10,7 @@ C++ decoders for EG LDPC at folder bf-tests-awgn-egldpc-0.2 from Fernando Pujaic
 BFS SHBF PHBF SSSBF PSSBF WBF MWBF
 
 
-* bit-flipping
+ * bit-flipping
  * bit-flipping-serial
  * Parallel hard bit-flipping
  * Serial hard bit-flipping
@@ -24,7 +24,7 @@ C++ decoders for  low-density generator matrix (LDGM)  at folder bf-tests-awgn-l
 BFS SHBF PHBF SSSBF PSSBF WBF MWBF
 
 
-* bit-flipping
+ * bit-flipping
  * bit-flipping-serial
  * Parallel hard bit-flipping
  * Serial hard bit-flipping
