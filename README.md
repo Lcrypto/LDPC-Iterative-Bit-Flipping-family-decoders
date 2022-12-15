@@ -6,7 +6,7 @@ Juntan Zhang and M. P. C. Fossorier, "A modified weighted bit-flipping decoding 
 
 For contruction QC-LDPC code use algebraic methods: https://github.com/Lcrypto/Algebraic_QC-LDPC 
 
-C++ decoders at folder bf-tests-awgn-egldpc-0.2 from Fernando Pujaico Rivera: 
+C++ decoders for EG LDPC at folder bf-tests-awgn-egldpc-0.2 from Fernando Pujaico Rivera: 
 * bit-flipping
  * bit-flipping-serial
  * Parallel hard bit-flipping
