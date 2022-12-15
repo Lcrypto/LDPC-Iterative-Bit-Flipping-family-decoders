@@ -16,3 +16,14 @@ C++ decoders for EG LDPC at folder bf-tests-awgn-egldpc-0.2 from Fernando Pujaic
  * Serial Sipser-Spilman bit-flipping
  * Parallel Sipser-Spilman bit-flipping
 BFS SHBF PHBF SSSBF PSSBF WBF MWBF
+
+C++ decoders for  low-density generator matrix (LDGM)  at folder bf-tests-awgn-ldgm-0.2 from Fernando Pujaico Rivera: 
+* bit-flipping
+ * bit-flipping-serial
+ * Parallel hard bit-flipping
+ * Serial hard bit-flipping
+ * Weighted bit-flipping
+ * Modified weighted bit-flipping
+ * Serial Sipser-Spilman bit-flipping
+ * Parallel Sipser-Spilman bit-flipping
+BFS SHBF PHBF SSSBF PSSBF WBF MWBF
